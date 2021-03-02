@@ -120,7 +120,7 @@ main {
 }
 
 .main-usage span {
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
@@ -157,7 +157,7 @@ main {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 1.2rem;
 }
 
@@ -196,13 +196,13 @@ main {
 
   span:nth-child(1) {
     color: $blue-dark;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 3.4rem;
   }
   span:nth-child(2) {
     margin-left: 5px;
     color: $blue-gray;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 1.3rem;
     text-transform: uppercase;
   }

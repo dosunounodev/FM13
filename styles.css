@@ -116,7 +116,7 @@ main {
 }
 
 .main-usage span {
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
@@ -151,7 +151,7 @@ main {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 1.2rem;
 }
 
@@ -192,13 +192,13 @@ main {
 }
 .loader-spaceleft span:nth-child(1) {
   color: #1d2c67;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 3.4rem;
 }
 .loader-spaceleft span:nth-child(2) {
   margin-left: 5px;
   color: #848794;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 1.3rem;
   text-transform: uppercase;
 }
